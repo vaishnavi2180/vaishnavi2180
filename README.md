@@ -40,7 +40,6 @@
 
 ### How to connect with me:question::email:
 [![Linkedin Badge ](https://img.shields.io/badge/-vaishnavi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnavi-gopisetty-74b701188/)](https://www.linkedin.com/in/vaishnavi-gopisetty-74b701188/)
-[![GitHub Badge](https://img.shields.io/badge/-vaishnavi2180-black?style=flat&labelColor=000000&logo=GitHub&link=https://github.com/vaishnavi2180)](https://github.com/vaishnavi2180) 
 [![Twitter Badge](https://img.shields.io/badge/-@vaishusetty-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vaishu_setty)](https://twitter.com/vaishu_setty)
 [![Instagram Badge](https://img.shields.io/badge/-@vaishu_setty-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vaishu_gopisetty/)](https://instagram.com/vaishu_gopisetty)
 [![Gmail Badge](https://img.shields.io/badge/-vaishnavi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vaishnavigopisetty55@gmail.com)](mailto:vaishnavigopisetty55@gmail.com)  
