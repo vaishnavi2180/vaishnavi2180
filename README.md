@@ -56,3 +56,14 @@
 [![Twitter Badge](https://img.shields.io/badge/-@vaishusetty-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vaishu_setty)](https://twitter.com/vaishu_setty)
 [![Instagram Badge](https://img.shields.io/badge/-@vaishu_setty-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vaishu_gopisetty/)](https://instagram.com/vaishu_gopisetty)
 [![Gmail Badge](https://img.shields.io/badge/-vaishnavi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vaishnavigopisetty55@gmail.com)](mailto:vaishnavigopisetty55@gmail.com)  
+
+<!---<details>
+  <summary>:zap: <b>Github Stats</b></summary>
+
+  [![vaishnavi2180's github stats](https://github-readme-stats.vaishnavi2180.vercel.app/api?username=vaishnavi2180&show_icons=true)](https://github.com/vaishnavi2180/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vaishnavi2180.vercel.app/api/top-langs/?username=vaishnavi2180&layout=compact&langs_count=6)](https://github.com/vaishnavi2180t/github-readme-stats)
+
+</details>
+<br>--->
+
+![](https://komarev.com/ghpvc/?username=vaishnavi2180)
