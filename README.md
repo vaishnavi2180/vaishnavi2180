@@ -40,7 +40,7 @@
 
 ### What I do When I am not before laptop:question:
 <code>Gossiping with best friend </code>:pig:<br>
-<code>sleeping💤</code>
+<code>sleeping</code>💤
  
  ```javascript
  
