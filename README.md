@@ -36,10 +36,10 @@
 <code>var topics = ["React" , "Node js" , "ML"];</code>
 
 ### What can I help with:question:
-<code>"Pretty much nerd stuffs...!!":grin:</code>
+<code>"Pretty much nerd stuffs...!!"</code>:grin:
 
 ### What I do When I am not before laptop:question:
-<code>Gossiping with best friend 🐷</code><br>
+<code>Gossiping with best friend </code>:pig:<br>
 <code>sleeping💤</code>
  
  ```javascript
