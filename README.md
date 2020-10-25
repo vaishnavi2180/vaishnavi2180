@@ -38,6 +38,10 @@
 ### What can I help with:question:
 <code>"Pretty much nerd stuffs...!!"</code> :grin:
 
+### What I do When I am not before laptop:question:
+<code>Gossiping with best friend 🐷</code><br>
+<code>sleeping💤</code>
+ 
  ```javascript
  
  while (alive) {
